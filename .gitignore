@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Misc
+.DS_STORE
+Self_Driving_Car/__pycache__/
+Doom/videos/
+Breakout/test/
